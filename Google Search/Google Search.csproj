@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Google_Search</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Google.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="CSharpRoutes icon.png" />
+    <None Remove="Google.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Google.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="CSharpRoutes icon.png" />
+    <Resource Include="Google.png" />
+  </ItemGroup>
+
+</Project>

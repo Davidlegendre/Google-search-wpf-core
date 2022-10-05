@@ -1,0 +1,5 @@
+C:\Users\David Legendre\Desktop\pruebas\Google Search\Google Search\Releases\Google Search.exe
+C:\Users\David Legendre\Desktop\pruebas\Google Search\Google Search\Releases\Google Search.dll
+C:\Users\David Legendre\Desktop\pruebas\Google Search\Google Search\Releases\Google Search.deps.json
+C:\Users\David Legendre\Desktop\pruebas\Google Search\Google Search\Releases\Google Search.runtimeconfig.json
+C:\Users\David Legendre\Desktop\pruebas\Google Search\Google Search\Releases\Google Search.pdb
