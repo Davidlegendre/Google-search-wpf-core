@@ -1,7 +1,0 @@
-C:\Users\David Legendre\Desktop\pruebas\Google Search\Google Search\Releases\Google Search.pdb
-C:\Users\David Legendre\Desktop\pruebas\Google Search\Google Search\Releases\D3DCompiler_47_cor3.dll
-C:\Users\David Legendre\Desktop\pruebas\Google Search\Google Search\Releases\PenImc_cor3.dll
-C:\Users\David Legendre\Desktop\pruebas\Google Search\Google Search\Releases\PresentationNative_cor3.dll
-C:\Users\David Legendre\Desktop\pruebas\Google Search\Google Search\Releases\vcruntime140_cor3.dll
-C:\Users\David Legendre\Desktop\pruebas\Google Search\Google Search\Releases\wpfgfx_cor3.dll
-C:\Users\David Legendre\Desktop\pruebas\Google Search\Google Search\Releases\Google Search.exe
